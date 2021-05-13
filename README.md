@@ -1,7 +1,9 @@
 # VD-Coding-Test
 
 data structure:
-{\br
+
+{
+
     "key1":
         [
             {"100":"val1"},
