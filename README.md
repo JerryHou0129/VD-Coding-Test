@@ -2,7 +2,7 @@
 
 data structure:
 
-{
+
 
     "key1":
         [
@@ -15,7 +15,7 @@ data structure:
             {"300":"val3"},
             {"400":"val4"}
         ]
-}
+
 
 Run:
 npm install
