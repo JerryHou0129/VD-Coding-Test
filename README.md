@@ -19,12 +19,12 @@ data structure:
 
 Run:
 
-npm install
+npm install. 
 
-node app.js
+node app.js. 
 
-Uncomment to test with default data
+Uncomment to test with default data. 
 
-GET test: http://localhost:8000/object/key1
+GET test: http://localhost:8000/object/key1  
 
-POST test: curl -H 'Content-Type: application/json' -X POST -d '{"key":"key1","value":"val1"}' http://localhost:8000/object
+POST test: curl -H 'Content-Type: application/json' -X POST -d '{"key":"key1","value":"val1"}' http://localhost:8000/object  
